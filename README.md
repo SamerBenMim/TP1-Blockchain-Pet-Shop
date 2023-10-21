@@ -36,13 +36,16 @@ npm install
 ## Start Ganache
 
 1. Launch Ganache and ensure it's running on the appropriate port (e.g., 7546).
+![Alt Text](screenshots/gannache.png)
 
 ## Compile & Migrate Contracts
 
 ```bash
+truffle test
 truffle compile
 truffle migrate
 ```
+![Alt Text](screenshots/tests.png)
 
 ## Run the dApp
 
@@ -63,6 +66,9 @@ Once the dApp is running:
 - Browse the available pets.
 - Adopt pets using your Ethereum account.
 - Confirm transactions using MetaMask.
+
+![Alt Text](screenshots/meta.png)
+
 
 ## Contribution
 

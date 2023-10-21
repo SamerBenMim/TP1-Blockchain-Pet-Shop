@@ -36,7 +36,7 @@ npm install
 ## Start Ganache
 
 1. Launch Ganache and ensure it's running on the appropriate port (e.g., 7546).
-![Alt Text](screenshots/gannache.png)
+![Alt Text](screenshots/gannach.png)
 
 ## Compile & Migrate Contracts
 

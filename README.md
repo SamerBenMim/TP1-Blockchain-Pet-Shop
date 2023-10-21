@@ -74,6 +74,10 @@ Once the dApp is running:
 
 Feel free to fork this repository, submit issues, or provide pull requests. Contributions are welcome!
 
+## Demo
+
+[demo.webm](https://github.com/SamerBenMim/TP1-Blockchain-Pet-Shop/assets/79151541/5c78c2fb-2172-4e4e-b6ce-84c36010f567)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
